@@ -9,11 +9,13 @@ AI/ML and Cybersecurity enthusiast with a strong focus on building practical sol
 - Always learning and improving my skills  
 
 ## 🔹 Skills
-- **Languages:** Python, JavaScript, HTML, CSS, SQL, Shell, C++, C
+- **Languages:** Python (numpy, sympy, pandas, matplotlib, pvlib, scipy, tkinter, and more...), JavaScript, HTML, CSS, SQL, Shell, C++, C
+- **Technologies:** Machine Learning, Data Structures, Algorithms, Operating Systems
 - **Machine Learning:** Classification models, Scikit-learn  
 - **Cybersecurity:** IDS concepts, attack analysis  
 - **Tools:** Git, GitHub, VS Code, MySQL
 
+  
 ## 🔹 Projects
 ### 🔸 TechNova 2025 Website  
 A polished multi-page event website built with clean UI, animations, and responsive design.
