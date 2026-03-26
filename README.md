@@ -39,7 +39,7 @@ Machine Learning Enthusiast • Aspiring AI Researcher
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=python,flask,js,html,css,git,github,mysql)
+![Skills](https://skillicons.dev/icons?i=python,flask,js,html,css,git,github,mysql,aws,c,cpp,nodejs,ubuntu)
 
 ---
 
