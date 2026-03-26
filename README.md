@@ -45,7 +45,7 @@ Machine Learning Enthusiast • Aspiring AI Researcher
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammedraof&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohammedauof)](https://git.io/streak-stats)
 
 ---
 
