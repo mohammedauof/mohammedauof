@@ -19,7 +19,8 @@ Machine Learning Enthusiast • Aspiring AI Researcher
 - Built an end-to-end ML system to predict airport security wait times  
 - Designed a realistic dataset with 14 operational features  
 - Compared multiple models and selected the best-performing one  
-- Achieved strong generalization with Linear Regression  
+- Achieved strong generalization with Linear Regression
+- view live demo at https://aeroscan.auof.in
 
 ### AdverSight — Adversarial Machine Learning Sandbox
 - Demonstrates adversarial attacks (FGSM, PGD) on image classifiers  
