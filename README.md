@@ -1,33 +1,69 @@
-# Mohammed Auof
+<h1 align="center">Hi 👋, I'm Mohammed Auof</h1>
+<p align="center">
+Machine Learning Enthusiast • Aspiring AI Researcher
+</p>
 
-AI/ML and Cybersecurity enthusiast with a strong focus on building practical solutions, improving system security, and exploring intelligent models. Currently working on an Intrusion Detection System using classification techniques.
+---
 
-## 🔹 About Me
-- Passionate about AI, Machine Learning, and Cybersecurity  
-- Active in research and real-world projects  
-- Strong interest in building secure and efficient systems  
-- Always learning and improving my skills  
+## About Me
 
-## 🔹 Skills
-- **Languages:** Python (numpy, sympy, pandas, matplotlib, pvlib, scipy, tkinter, and more...), JavaScript, HTML, CSS, SQL, Shell, C++, C
-- **Technologies:** Machine Learning, Data Structures, Algorithms, Operating Systems
-- **Machine Learning:** Classification models, Scikit-learn  
-- **Cybersecurity:** IDS concepts, attack analysis  
-- **Tools:** Git, GitHub, VS Code, MySQL
+- BSc in Physics, Mathematics, and Computer Science (JAIN University)  
+- Focused on building real-world Machine Learning systems  
+- Interested in applying AI to security problems  
 
-  
-## 🔹 Projects
-### 🔸 TechNova 2025 Website  
-A polished multi-page event website built with clean UI, animations, and responsive design.
+---
 
-### 🔸 Intrusion Detection Using Classification (Research)  
-Designing and evaluating ML classification models to improve detection performance.
+## Featured Work
 
-### 🔸 Personal Portfolio  
-A modern portfolio showcasing projects, internships, skills, and achievements.  
-🔗 https://mohammedauof.github.io/auof-portfolio/
+### Data-Driven Forecasting of Airport Security Processing Time
+- Built an end-to-end ML system to predict airport security wait times  
+- Designed a realistic dataset with 14 operational features  
+- Compared multiple models and selected the best-performing one  
+- Achieved strong generalization with Linear Regression  
 
-## 🔹 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/mohammedauof  
-- Portfolio: https://mohammedauof.github.io/auof-portfolio/  
-- GitHub: https://github.com/mohammedauof
+### AdverSight — Adversarial Machine Learning Sandbox
+- Demonstrates adversarial attacks (FGSM, PGD) on image classifiers  
+- Uses ResNet-50 (ImageNet) to show real misclassification behavior  
+- Interactive UI with prediction comparison and confidence shifts  
+- Built with Flask + JavaScript and deployed on Render  
+
+---
+
+## Projects
+
+- Steganography Detection (ML-based image classification, 44k dataset)  
+- Intrusion Detection using Classification (research-focused)  
+- TechNova Web Application (full-stack project)  
+
+---
+
+## Skills
+
+![Skills](https://skillicons.dev/icons?i=python,flask,js,html,css,git,github,mysql)
+
+---
+
+## GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammedraof&theme=dark&hide_border=true)
+
+---
+
+## Currently Focused On
+
+- Improving ML fundamentals and model performance  
+- Building stronger project depth (research + real-world systems)  
+- Preparing for Machine Learning internships  
+
+---
+
+## Links
+
+Portfolio: https://auof.in  
+LinkedIn: https://linkedin.com/in/mohammedauof  
+
+---
+
+## Future Direction
+
+Working towards AI-driven cybersecurity by combining machine learning with security systems.
